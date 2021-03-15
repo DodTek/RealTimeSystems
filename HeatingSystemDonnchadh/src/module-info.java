@@ -1,2 +1,3 @@
-module HeatingSystemDonnchadh {
+module MultiStateMachineDonnchadh {
+	exports com.yakindu.core;
 }
